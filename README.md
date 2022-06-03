@@ -1,4 +1,4 @@
-# my-homework
+# Read files Grade the exams and check id, student grading
 Task 1:
 Tạo một chương trình Python mới có tên “lastname_firstname_grade_the_exams.py.” (Đảm bảo tệp mã nguồn của bạn nằm trong cùng thư mục với tệp dữ liệu bạn vừa tải xuống.)
 
